@@ -1,0 +1,19 @@
+=================CODE===================
+;PROGRAM LAB2
+
+DATA SEGMENT
+	C1	mov,21
+	C2	mov,1241
+DATA ENDS
+
+CODE SEGMENT
+	ASSUME CS:CODE, DS:DATA
+BEGIN:
+	PUSH EBP
+	MOV EBP, ESP
+	XOR EAX, EAX
+	MOV ESP, EBP
+	POP EBP
+
+	C1	mov,123
+Error:Can't be changed Const more than one time

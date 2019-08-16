@@ -1,0 +1,7 @@
+﻿  Knuta_machine.cpp
+c:\users\vlad\source\repos\lab2_opt\lab2_opt\knuta_machine.cpp(64): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vlad\source\repos\lab2_opt\lab2_opt\knuta_machine.cpp(358): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vlad\source\repos\lab2_opt\lab2_opt\knuta_machine.cpp(366): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vlad\source\repos\lab2_opt\lab2_opt\knuta_machine.cpp(382): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vlad\source\repos\lab2_opt\lab2_opt\knuta_machine.cpp(354): warning C4715: Knuta_machine::func: значение возвращается не при всех путях выполнения
+  Lab2_OPT.vcxproj -> C:\Users\Vlad\source\repos\Lab2_OPT\Debug\Lab2_OPT.exe
